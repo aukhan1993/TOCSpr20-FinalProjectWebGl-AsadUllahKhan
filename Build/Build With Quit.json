@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CumulativeProject-AsadUllahKhan",
+"productVersion": "0.1",
+"dataUrl": "Build With Quit.data.unityweb",
+"wasmCodeUrl": "Build With Quit.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build With Quit.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Build With Quit.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
